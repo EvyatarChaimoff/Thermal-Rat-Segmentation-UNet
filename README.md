@@ -337,7 +337,7 @@ RAT THERMAL SEGMENTATION - PROJECT MENU
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ How to Run
 
 Follow these steps to set up your environment and run the project:
 
