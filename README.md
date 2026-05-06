@@ -337,16 +337,28 @@ RAT THERMAL SEGMENTATION - PROJECT MENU
 
 ---
 
-## 🚀 How to Run
+## 🛠️ Getting Started
 
-### Prerequisites
+Follow these steps to set up your environment and run the project:
 
+### Create a Virtual Environment
+It is recommended to use a virtual environment to keep your dependencies organized.
 ```bash
-pip install torch torchvision
-pip install segmentation-models-pytorch
-pip install albumentations
-pip install opencv-python
-pip install pandas numpy matplotlib tqdm scikit-learn
+python -m venv venv
+```
+### Activate the environment based on your operating system:
+
+#### Windows:
+```bash
+venv\Scripts\activate
+```
+#### Linux:
+```bash
+source venv/bin/activate
+```
+### Install Dependencies
+```bash
+pip install -r requirements.txt
 ```
 
 ### 1. Prepare Data
