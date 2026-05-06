@@ -12,7 +12,7 @@
 4. [Technical Details](#-technical-details)
 5. [Training Process](#-training-process)
 6. [Results](#-results)
-7. [How to Run](#-how-to-run)
+7. [How to Run](#how-to-run)
 8. [Project Structure](#-project-structure)
 9. [Requirements](#-requirements)
 
@@ -337,7 +337,7 @@ RAT THERMAL SEGMENTATION - PROJECT MENU
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 Follow these steps to set up your environment and run the project:
 
