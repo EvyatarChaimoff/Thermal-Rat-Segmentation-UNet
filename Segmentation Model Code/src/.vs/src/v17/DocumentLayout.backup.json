@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\train.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:train.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\dataset.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:dataset.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\analyze_data.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:analyze_data.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\qa_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:qa_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\extract_mask_only.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:extract_mask_only.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53878CDD-DBEA-47E5-B21E-7409146D096F}|src.pyproj|solutionrelative:utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataset.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\dataset.py",
+              "RelativeDocumentMoniker": "dataset.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\dataset.py",
+              "RelativeToolTip": "dataset.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-16T17:09:43.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "model.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\model.py",
+              "RelativeDocumentMoniker": "model.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\model.py",
+              "RelativeToolTip": "model.py",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-18T12:38:01.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "analyze_data.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\analyze_data.py",
+              "RelativeDocumentMoniker": "analyze_data.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\analyze_data.py",
+              "RelativeToolTip": "analyze_data.py",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAKMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-03T15:08:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\config.py",
+              "RelativeDocumentMoniker": "config.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\config.py*",
+              "RelativeToolTip": "config.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-18T12:56:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\test.py",
+              "RelativeDocumentMoniker": "test.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\test.py",
+              "RelativeToolTip": "test.py",
+              "ViewState": "AgIAACQCAAAAAAAAAAAowFgCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-02T15:27:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "train.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\train.py",
+              "RelativeDocumentMoniker": "train.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\train.py",
+              "RelativeToolTip": "train.py",
+              "ViewState": "AgIAANEAAAAAAAAAAAAhwOoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-18T12:36:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "extract_mask_only.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\extract_mask_only.py",
+              "RelativeDocumentMoniker": "extract_mask_only.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\extract_mask_only.py",
+              "RelativeToolTip": "extract_mask_only.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-25T10:37:57.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "qa_utils.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\qa_utils.py",
+              "RelativeDocumentMoniker": "qa_utils.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\qa_utils.py",
+              "RelativeToolTip": "qa_utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-18T14:30:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-02T13:32:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\utils.py",
+              "RelativeDocumentMoniker": "utils.py",
+              "ToolTip": "C:\\Users\\aacc\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Thermal-Rat-Segmentation-UNet\\Segmentation Model Code\\src\\utils.py",
+              "RelativeToolTip": "utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-22T16:03:39.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
